@@ -1,0 +1,22 @@
+{
+  "name": "Token List",
+  "timestamp": "2022-10-12T13:46:17.455Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 53
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": ["uniswap", "default"],
+  "tokens": [
+    {
+      "name": "Tether USD",
+      "address": "0x23718353E2f812a302E777C122067e4F24BE1daC",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    }
+  ]
+}
